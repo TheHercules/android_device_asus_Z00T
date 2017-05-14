@@ -7,7 +7,7 @@ BOARD_VENDOR := asus
 PRODUCT_NAME := xenonhd_Z00T
 PRODUCT_BRAND := asus
 PRODUCT_MANUFACTURER := asus
-PRODUCT_DEVICE := Z00L
+PRODUCT_DEVICE := Z00T
 PRODUCT_MODEL := Zenfone 2 Laser/Selfie
 TARGET_VENDOR := asus
 
@@ -19,4 +19,4 @@ PRODUCT_PACKAGES += \
     KernelAdiutor \
     MiXplorer
 
-PRODUCT_PROPERTY_OVERRIDES += ro.xenonhd.maintainer="Hercules"
+PRODUCT_PROPERTY_OVERRIDES += ro.xenonhd.maintainer="The_Hercules"
