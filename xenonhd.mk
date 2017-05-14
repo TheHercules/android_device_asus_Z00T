@@ -19,4 +19,4 @@ PRODUCT_PACKAGES += \
     KernelAdiutor \
     MiXplorer
 
-PRODUCT_PROPERTY_OVERRIDES += ro.xenonhd.maintainer="nick name"Hercules"
+PRODUCT_PROPERTY_OVERRIDES += ro.xenonhd.maintainer="Hercules"
