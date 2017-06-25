@@ -1,2 +1,5 @@
 # Display
 ro.sf.lcd_density=480
+
+# Device model
+ro.product.model=Z00T
